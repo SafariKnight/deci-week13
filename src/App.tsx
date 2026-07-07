@@ -8,8 +8,8 @@ export default function App() {
   Team 2:
     <ul>
       <li>Kareem Hisham</li>
-      <li>Muhamed Mahmoud</li>
-      <li>Yonues Mohamed</li>
+      <li>Mohammed Mahmoud</li>
+      <li>Younes Mohammed</li>
   </ul>
   </>
 }
