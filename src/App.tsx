@@ -1,5 +1,3 @@
-import { useLayoutEffect } from "react"
-
 export default function App() {
   return <>
   <p>
