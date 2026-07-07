@@ -27,7 +27,7 @@ ul {
     padding: 3rem;
     aspect-ratio: 16 / 10;
     text-align: center;
-    box-shadow: 0.5rem 0.5rem #1a1a1a;
+    box-shadow: 0.4rem 0.875rem #1a1a1a;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
